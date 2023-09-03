@@ -26,7 +26,7 @@ a {
 }
 
 .accent-logo {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #2e2f42;
 }
 
 .nav-item {
@@ -35,7 +35,6 @@ a {
 
 .nav-link {
   color: #2e2f42;
-  font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -54,11 +53,9 @@ a {
 }
 .contacts-link {
   color: #434455;
-  font-family: Roboto;
   font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .contacts-link:hover,
 .contacts-link:focus {
@@ -72,9 +69,7 @@ a {
 .hero-title {
   color: #fff;
   text-align: center;
-  font-family: Roboto;
   font-size: 56px;
-  font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
 }
@@ -104,7 +99,6 @@ a {
 }
 .advantage-title {
   color: #2e2f42;
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -112,9 +106,7 @@ a {
 }
 .advantage-text {
   color: #434455;
-  font-family: Roboto;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -126,9 +118,7 @@ a {
 .our-team-title {
   color: #2e2f42;
   text-align: center;
-  font-family: Roboto;
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -140,7 +130,6 @@ a {
 
 .our-team-subtitle {
   color: #2e2f42;
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -148,9 +137,7 @@ a {
 }
 .our-team-text {
   color: #434455;
-  font-family: Roboto;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -161,9 +148,7 @@ a {
 .our-portfolio-title {
   color: #2e2f42;
   text-align: center;
-  font-family: Roboto;
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -174,7 +159,6 @@ a {
 }
 .our-portfolio-subtitle {
   color: #2e2f42;
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -182,9 +166,7 @@ a {
 }
 .our-portfolio-text {
   color: #434455;
-  font-family: Roboto;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -197,9 +179,7 @@ a {
 }
 .footer-text {
   color: #f4f4fd;
-  font-family: Roboto;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
